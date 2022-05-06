@@ -36,10 +36,10 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "File.Encoding"
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ProfitOuPerte">
+  <component name="RunManager" selected="Application.LePlusGrand">
     <configuration name="Addition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fr.Exo02.Addition" />
       <module name="correction-algo-java" />
@@ -59,6 +59,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="fr.Exo01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LePlusGrand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exo04.LePlusGrand" />
+      <module name="correction-algo-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exo04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,6 +107,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LePlusGrand" />
         <item itemvalue="Application.ProfitOuPerte" />
         <item itemvalue="Application.Addition" />
         <item itemvalue="Application.Bienvenue" />
@@ -108,7 +122,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651837283797</updated>
-      <workItem from="1651837285227" duration="7573000" />
+      <workItem from="1651837285227" duration="9154000" />
     </task>
     <servers />
   </component>
