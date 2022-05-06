@@ -35,10 +35,11 @@
     "WebServerToolWindowFactoryState": "false",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "File.Encoding"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Addition">
+  <component name="RunManager" selected="Application.ProfitOuPerte">
     <configuration name="Addition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fr.Exo02.Addition" />
       <module name="correction-algo-java" />
@@ -65,6 +66,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProfitOuPerte" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.Exo03.ProfitOuPerte" />
+      <module name="correction-algo-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.Exo03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="correction-algo-java" />
       <method v="2">
@@ -80,6 +94,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProfitOuPerte" />
         <item itemvalue="Application.Addition" />
         <item itemvalue="Application.Bienvenue" />
       </list>
@@ -93,7 +108,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651837283797</updated>
-      <workItem from="1651837285227" duration="1973000" />
+      <workItem from="1651837285227" duration="7573000" />
     </task>
     <servers />
   </component>
@@ -110,5 +125,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
