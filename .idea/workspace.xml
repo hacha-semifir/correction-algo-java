@@ -40,7 +40,7 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Calculatrice">
+  <component name="RunManager" selected="Application.Somme">
     <configuration name="Calculatrice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fr.exo06.Calculatrice" />
       <module name="correction-algo-java" />
@@ -54,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LePlusGrand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exo04.LePlusGrand" />
+    <configuration name="CalculatriceFonctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.exo06.CalculatriceFonctions" />
       <module name="correction-algo-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exo04.*" />
+          <option name="PATTERN" value="fr.exo06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,9 +80,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="Somme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.exo07.Somme" />
       <module name="correction-algo-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.exo07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -115,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Somme" />
+        <item itemvalue="Application.CalculatriceFonctions" />
         <item itemvalue="Application.Calculatrice" />
         <item itemvalue="Application.LeProf" />
         <item itemvalue="Application.fr.exo04.LePlusGrand" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.exo04.LePlusGrand" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +137,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651837283797</updated>
-      <workItem from="1651837285227" duration="20517000" />
+      <workItem from="1651837285227" duration="22223000" />
     </task>
     <servers />
   </component>
