@@ -1,4 +1,4 @@
-package Exo04;
+package fr.exo04;
 
 import java.util.Scanner;
 

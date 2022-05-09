@@ -1,4 +1,4 @@
-package fr.Exo02;
+package fr.exo02;
 
 import java.util.Scanner;
 

@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="51e03a43-0dd2-4a39-970f-2191410ce5ae" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exo04/LePlusGrand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/Exo01/Bienvenue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/exo01/Bienvenue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/Exo02/Addition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/exo02/Addition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/Exo03/ProfitOuPerte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/exo03/ProfitOuPerte.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,58 +37,66 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/hacen/www/formations/Aston/java/banque",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LePlusGrand">
-    <configuration name="Addition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fr.Exo02.Addition" />
-      <module name="correction-algo-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fr.Exo02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Bienvenue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fr.Exo01.Bienvenue" />
-      <module name="correction-algo-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fr.Exo01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.LeProf">
     <configuration name="LePlusGrand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exo04.LePlusGrand" />
+      <option name="MAIN_CLASS_NAME" value="exo04.LePlusGrand" />
       <module name="correction-algo-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exo04.*" />
+          <option name="PATTERN" value="exo04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeProf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.exo05.LeProf" />
+      <module name="correction-algo-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.exo05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="correction-algo-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="ProfitOuPerte" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fr.Exo03.ProfitOuPerte" />
+      <option name="MAIN_CLASS_NAME" value="fr.exo03.ProfitOuPerte" />
       <module name="correction-algo-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fr.Exo03.*" />
+          <option name="PATTERN" value="fr.exo03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fr.exo04.LePlusGrand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.exo04.LePlusGrand" />
+      <module name="correction-algo-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.exo04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,10 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LePlusGrand" />
-        <item itemvalue="Application.ProfitOuPerte" />
-        <item itemvalue="Application.Addition" />
-        <item itemvalue="Application.Bienvenue" />
+        <item itemvalue="Application.LeProf" />
+        <item itemvalue="Application.fr.exo04.LePlusGrand" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.exo04.LePlusGrand" />
+        <item itemvalue="Application.fr.exo03.ProfitOuPerte" />
       </list>
     </recent_temporary>
   </component>
@@ -122,7 +135,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651837283797</updated>
-      <workItem from="1651837285227" duration="9154000" />
+      <workItem from="1651837285227" duration="17868000" />
     </task>
     <servers />
   </component>
