@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="51e03a43-0dd2-4a39-970f-2191410ce5ae" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fr/exo07/Somme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/exo07/Somme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fr/exo08/Escalier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/exo08/Escalier.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,21 +28,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/hacen/www/formations/Aston/java/banque",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hacen/www/formations/Aston/java/banque&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Escalier">
-    <configuration name="Calculatrice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fr.exo06.Calculatrice" />
+}</component>
+  <component name="RunManager" selected="Application.DroleDePyramide">
+    <configuration name="CalculatriceFonctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.exo06.CalculatriceFonctions" />
       <module name="correction-algo-java" />
       <extension name="coverage">
         <pattern>
@@ -56,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatriceFonctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fr.exo06.CalculatriceFonctions" />
+    <configuration name="DroleDePyramide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.exo09.DroleDePyramide" />
       <module name="correction-algo-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fr.exo06.*" />
+          <option name="PATTERN" value="fr.exo09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeProf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fr.exo05.LeProf" />
+    <configuration name="Pyramide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.exo10.Pyramide" />
       <module name="correction-algo-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fr.exo05.*" />
+          <option name="PATTERN" value="fr.exo10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,26 +106,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="correction-algo-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="correction-algo-java" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DroleDePyramide" />
+        <item itemvalue="Application.Pyramide" />
         <item itemvalue="Application.Escalier" />
         <item itemvalue="Application.Somme" />
         <item itemvalue="Application.CalculatriceFonctions" />
-        <item itemvalue="Application.Calculatrice" />
-        <item itemvalue="Application.LeProf" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +124,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651837283797</updated>
-      <workItem from="1651837285227" duration="23786000" />
+      <workItem from="1651837285227" duration="25654000" />
+      <workItem from="1652166393796" duration="6254000" />
     </task>
     <servers />
   </component>
@@ -156,6 +142,22 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/fr/exo09/DroleDePyramide.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/fr/exo10/Pyramide.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
