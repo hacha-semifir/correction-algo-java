@@ -28,25 +28,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/hacen/www/formations/Aston/java/banque&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/hacen/www/formations/Aston/java/banque",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
-  <component name="RunManager" selected="Application.DroleDePyramide">
-    <configuration name="CalculatriceFonctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fr.exo06.CalculatriceFonctions" />
+}]]></component>
+  <component name="RunManager" selected="Application.CentraleDeTri">
+    <configuration name="CentraleDeTri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.exo13.CentraleDeTri" />
       <module name="correction-algo-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fr.exo06.*" />
+          <option name="PATTERN" value="fr.exo13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Escalier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fr.exo08.Escalier" />
+    <configuration name="MonnaieEuropeene" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.exo11.MonnaieEuropeene" />
       <module name="correction-algo-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fr.exo08.*" />
+          <option name="PATTERN" value="fr.exo11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Somme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fr.exo07.Somme" />
+    <configuration name="Temperature" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.exo12.Temperature" />
       <module name="correction-algo-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fr.exo07.*" />
+          <option name="PATTERN" value="fr.exo12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CentraleDeTri" />
+        <item itemvalue="Application.Temperature" />
+        <item itemvalue="Application.MonnaieEuropeene" />
         <item itemvalue="Application.DroleDePyramide" />
         <item itemvalue="Application.Pyramide" />
-        <item itemvalue="Application.Escalier" />
-        <item itemvalue="Application.Somme" />
-        <item itemvalue="Application.CalculatriceFonctions" />
       </list>
     </recent_temporary>
   </component>
@@ -125,7 +126,7 @@
       <option name="presentableId" value="Default" />
       <updated>1651837283797</updated>
       <workItem from="1651837285227" duration="25654000" />
-      <workItem from="1652166393796" duration="6254000" />
+      <workItem from="1652166393796" duration="20621000" />
     </task>
     <servers />
   </component>
@@ -152,9 +153,19 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/fr/exo10/Pyramide.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="4" />
+          <url>file://$PROJECT_DIR$/src/fr/exo11/MonnaieEuropeene.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/fr/exo11/MonnaieEuropeene.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/fr/exo12/Temperature.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
