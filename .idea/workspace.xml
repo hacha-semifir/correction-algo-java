@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="51e03a43-0dd2-4a39-970f-2191410ce5ae" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/exo01/Bienvenue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/exo01/Bienvenue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +34,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/hacen/www/formations/Aston/java/banque",
+    "last_opened_file_path": "C:/Users/hacen/www/formations/Aston/java/entrainementPOO/projetBanque",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -41,7 +42,20 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CentraleDeTri">
+  <component name="RunManager" selected="Application.JustePrix">
+    <configuration name="Bienvenue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.exo01.Bienvenue" />
+      <module name="correction-algo-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.exo01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CentraleDeTri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fr.exo13.CentraleDeTri" />
       <module name="correction-algo-java" />
@@ -55,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DroleDePyramide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fr.exo09.DroleDePyramide" />
+    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.exo14.FizzBuzz" />
       <module name="correction-algo-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fr.exo09.*" />
+          <option name="PATTERN" value="fr.exo14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MonnaieEuropeene" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fr.exo11.MonnaieEuropeene" />
+    <configuration name="JustePrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.exo15.JustePrix" />
       <module name="correction-algo-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fr.exo11.*" />
+          <option name="PATTERN" value="fr.exo15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,25 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pyramide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fr.exo10.Pyramide" />
+    <configuration name="RollerCoaster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.exo16.RollerCoaster" />
       <module name="correction-algo-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fr.exo10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Temperature" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fr.exo12.Temperature" />
-      <module name="correction-algo-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fr.exo12.*" />
+          <option name="PATTERN" value="fr.exo16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JustePrix" />
+        <item itemvalue="Application.RollerCoaster" />
+        <item itemvalue="Application.FizzBuzz" />
+        <item itemvalue="Application.Bienvenue" />
         <item itemvalue="Application.CentraleDeTri" />
-        <item itemvalue="Application.Temperature" />
-        <item itemvalue="Application.MonnaieEuropeene" />
-        <item itemvalue="Application.DroleDePyramide" />
-        <item itemvalue="Application.Pyramide" />
       </list>
     </recent_temporary>
   </component>
@@ -126,7 +127,7 @@
       <option name="presentableId" value="Default" />
       <updated>1651837283797</updated>
       <workItem from="1651837285227" duration="25654000" />
-      <workItem from="1652166393796" duration="20621000" />
+      <workItem from="1652166393796" duration="39263000" />
     </task>
     <servers />
   </component>
@@ -154,7 +155,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/fr/exo11/MonnaieEuropeene.java</url>
-          <line>26</line>
+          <line>24</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -166,6 +167,20 @@
           <url>file://$PROJECT_DIR$/src/fr/exo12/Temperature.java</url>
           <line>8</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/fr/exo16/RollerCoaster.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/fr/exo11/MonnaieEuropeene.java</url>
+          <line>6</line>
+          <properties class="fr.exo11.MonnaieEuropeene" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
